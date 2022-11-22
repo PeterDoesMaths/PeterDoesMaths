@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Peter Moskvichev. I'll be using this GitHub profile to share some of the maths problems I have worked on. 
+
 <!--
 **PeterDoesMaths/PeterDoesMaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
